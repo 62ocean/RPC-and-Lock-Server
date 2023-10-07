@@ -1,0 +1,13 @@
+.vscode/
+chfs1/
+log/
+*.o
+*.d
+*.log
+test*
+extent_server
+lock_server
+lock_demo
+lock_tester
+chfs_client
+rpc/
